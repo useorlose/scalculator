@@ -40,6 +40,8 @@
 Here is the cpp check badge
 ![cppcheck-action](https://github.com/useorlose/scalculator/workflows/cppcheck-action/badge.svg)
 
+Here is my c-build badge
+![C/C++ CI](https://github.com/useorlose/scalculator/workflows/C/C++%20CI/badge.svg)
 
 
 
