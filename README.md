@@ -43,6 +43,8 @@ Here is the cpp check badge
 Here is my c-build badge
 ![C/C++ CI](https://github.com/useorlose/scalculator/workflows/C/C++%20CI/badge.svg)
 
+Here is my Unit Test Badge
+![Unit testing](https://github.com/useorlose/scalculator/workflows/Unit%20testing/badge.svg)
 
 
 
