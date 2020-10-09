@@ -37,6 +37,8 @@
 * Static code analysis using cppcheck
 
     
+Here is the cpp check bagde
+![cppcheck-action](https://github.com/useorlose/scalculator/workflows/cppcheck-action/badge.svg)
 
 
 
