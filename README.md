@@ -36,24 +36,17 @@
 * Unit tests with unity
 * Static code analysis using cppcheck
 
-
-![C/C++ CI](https://github.com/99002463/calculator/workflows/C/C++%20CI/badge.svg)      
-
-
-![cppcheck-action](https://github.com/99002463/calculator/workflows/cppcheck-action/badge.svg)
+    
 
 
 
 
-![Unit testing](https://github.com/99002463/calculator/workflows/Unit%20testing/badge.svg)
 
 
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ef868a9ce5a442c2b3e3b1611fe107ba)](https://app.codacy.com/manual/99002463/calculator?utm_source=github.com&utm_medium=referral&utm_content=99002463/calculator&utm_campaign=Badge_Grade_Dashboard)
 
 
 
-## Github Details
-* https://github.com/99002600/scalculator
-* By:Rahul Rauniyar
+
+
 
